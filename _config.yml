@@ -1,1 +1,18 @@
+# Site settings
+title: Epiphany Contracting
+description: Where the muse is everpresent.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://your-username.github.io" # the base hostname & protocol for your site
+
+# Author settings
+author:
+  name: Epiphany Contracting
+  email: epiphany.contracting.co@gmail.com
+
+# Theme settings
 theme: jekyll-theme-midnight
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
